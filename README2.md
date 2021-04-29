@@ -1,15 +1,5 @@
 **Lista de comandos ativos:**
-
-`!DRIVE`
-`!MONITOR`
-`!ACADEMICO`
-`!MAPA`
-`!PING`
-`!CURSOS`
-`!HELP`
-`!QUIZ SET`
-`!BANCA APROVAR`
-`!BANCA ISOLADO`
+ISOLADO`
 `!BANCA PROVA`
 `!BANCA LISTA`
 `!BANCA EDITAR`
