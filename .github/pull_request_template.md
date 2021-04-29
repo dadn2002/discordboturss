@@ -1,5 +1,5 @@
 **Essa pull request está relacionada ao pedido nº #NÚMERO**
-(Remover caso não exista issue relacionada)
+(Remover caso não exista pedido relacionado)
 
 **Não modifique diretamente os arquivos da Main**
 (Não estão linkados ao bot verdadeiro, mas vamos manter a organização)
