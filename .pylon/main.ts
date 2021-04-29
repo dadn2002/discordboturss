@@ -31,7 +31,7 @@ import { NewEmbedCreate } from './asyncfunction';
     'text'
     setTimeout(async () => await message.delete(), 1000)
   )
-); //MODELO*/
+); //MODELO*/ 
 /*discord.on('MODELO', async (data) => {
   const msgid = '768831127321313341';
   const emoji = discord.decor.Emojis.HAMBURGER;
