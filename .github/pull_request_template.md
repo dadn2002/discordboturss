@@ -1,4 +1,4 @@
-**Essa pull request está relacionada a issue #NÚMERO**
+**Essa pull request está relacionada ao pedido nº #NÚMERO**
 (Remover caso não exista issue relacionada)
 
 **Não modifique diretamente os arquivos da Main**
