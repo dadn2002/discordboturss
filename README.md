@@ -24,7 +24,7 @@ mm.ts é o conjunto de comandos relacionados a esportes
 
 **Bots e suas características:**
 
-      Name       |`symbol`|         ID
+      Name       |symbol|         ID
 
 @Groovy#7254     |  `-`  | 234395307759108106
 
