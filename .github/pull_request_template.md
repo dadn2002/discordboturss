@@ -21,3 +21,5 @@ Se possível, adicionar imagens que ilustrem o que foi desenvolvido.
 **O que faltou desenvolver**
 
 Descreva alguns pontos que podem ser desenvolvidos futuramente.
+
+assignees: nmdavialves
