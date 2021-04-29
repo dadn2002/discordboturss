@@ -1,4 +1,4 @@
-//
+// TESTANDO
 
 export const Filter = discord.command.filters;
 export const BOTCHANNELpraça = '832591015449067533';
