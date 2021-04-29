@@ -9,13 +9,13 @@ O Compilador efetivo do Pylon.bot é atualizado eventualmente por @nmdavialves, 
 
 **Pastas e subdivisões:**
 
-main.ts é onde residem os comandos ! .raw e os discord.on e as tasks.cron
+main.ts é onde residem os comandos `!` .raw e os discord.on e as tasks.cron
 
 admin.ts é onde as variáveis globais são declaradas e os comandos de admin residem, além da declaração de todos os subgrupos de comandos
 
 asyncfunction.ts é onde residem as funções assincronas do bot
 
-banca.ts é o conjunto de comandos !banca da categoria monitoria
+banca.ts é o conjunto de comandos `!banca` da categoria monitoria
 
 mm.ts é o conjunto de comandos relacionados a esportes
 
@@ -24,15 +24,15 @@ mm.ts é o conjunto de comandos relacionados a esportes
 
 **Bots e suas características:**
 
-      Name       |symbol|         ID
+      Name       |`symbol`|         ID
 
-@Groovy#7254     |  -   | 234395307759108106
+@Groovy#7254     |  `-`  | 234395307759108106
 
-@Twitchcord#3823 |  >   | 761322911772180500 
+@Twitchcord#3823 |  `>`   | 761322911772180500 
 
-@YouTube#7763    |  yt  | 456633518882160642
+@YouTube#7763    |  `yt`  | 456633518882160642
 
-@Zoe#7767        |  >   | 550737379460382752
+@Zoe#7767        |  `>`   | 550737379460382752
 
 
 **Cargos especiais e suas características:**
