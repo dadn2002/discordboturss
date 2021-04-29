@@ -22,4 +22,4 @@ Se possível, adicionar imagens que ilustrem o que foi desenvolvido.
 
 Descreva alguns pontos que podem ser desenvolvidos futuramente.
 
-assignees: nmdavialves
+
