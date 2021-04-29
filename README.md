@@ -4,24 +4,7 @@
 
 Bem vindos contribuidores e programadores, esse é o github do servidor da UFRN Secret Society!! Se você está aqui acredito que foi convidado por um CEO ou passou pelo teste de StaffApply. Quanto a ideia do servidor em si é servir de suporte a nossa vida acadêmica na UFRN (o servidor não tem nenhum vínculo legal com a instituição), cobrindo desde monitorias até os editais e notícias do portal. 
 Quanto as metas, objetivos e mudanças necessárias, vejam o Discord no canal #Programadores, diariamente o bot postará lá as 12:00 um aviso das funções que precisamos e dos erros/melhoras necessárias. O Canal #admin é de acesso exclusivo dos CEO's, é onde nós realizamos comandos de console para os mais diversos motivos...
-O Compilador efetivo do Pylon.bot é atualizado eventualmente por @nmdavialves, então o marquem como revisor que somente ele pode upar as modificações para nosso servidor! Como também peço que comuniquem suas mudanças no canal do seu cargo antes de tudo, é mais fácil um @everyone nos alertar que o dessa ferramenta.
-
-
-**Pastas e subdivisões:**
-
-main.ts é onde residem os comandos `!` .raw e os discord.on e as tasks.cron
-
-admin.ts é onde as variáveis globais são declaradas e os comandos de admin residem, além da declaração de todos os subgrupos de comandos
-
-asyncfunction.ts é onde residem as funções assincronas do bot
-
-banca.ts é o conjunto de comandos `!banca` da categoria monitoria
-
-mm.ts é o conjunto de comandos relacionados a esportes
-
-(Nota: todos os comandos funcionam assincronamente)
-
-
+O Compilador efetivo do Pylon.bot é atualizado eventualmente por @nmdavialves, então o marquem como revisor que somente ele pode upar as modificações para nosso servidor! Co
 **Bots e suas características:**
 
       Name       |symbol|         ID
